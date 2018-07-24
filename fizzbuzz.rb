@@ -1,4 +1,4 @@
-number = 30
+def number(number)
 
 if number %15 == 0
   puts "FizzBuzz"
