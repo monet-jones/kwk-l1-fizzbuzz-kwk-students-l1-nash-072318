@@ -1,4 +1,4 @@
-number = 10
+number = 15
 
 if number %3
   puts "Fizz"
