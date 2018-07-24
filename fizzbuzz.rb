@@ -8,4 +8,6 @@ else number %3 == 0
   puts "Fizz"
 end 
 
+end
+
 fizzbuzz(46)
